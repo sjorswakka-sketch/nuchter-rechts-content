@@ -1,1 +1,39 @@
-{"schemaVersion":1,"updatedAt":"2026-10-16T16:45:00+02:00","articles":[]}
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-16T17:01:02+02:00",
+  "articles": [
+    {
+      "slug": "welkom-bij-nuchter-rechts",
+      "title": "Een nuchtere blik op Nederland.",
+      "summary": "Nuchter Rechts krijgt een eigen plek voor nieuws en duiding, met zichtbare bronnen en open correcties.",
+      "category": "Redactie",
+      "type": "Redactie",
+      "publishedAt": "2026-10-16T17:01:02+02:00",
+      "updatedAt": "2026-10-16T17:01:02+02:00",
+      "author": "Redactie Nuchter Rechts",
+      "status": "draft",
+      "sections": [
+        {
+          "heading": "Waarom deze plek",
+          "paragraphs": [
+            "Dit wordt de nieuwe plek van Nuchter Rechts voor nieuws en duiding over Nederland. Korte berichten op X krijgen hier ruimte voor context.",
+            "Elk feitelijk stuk vermeldt zijn bronnen zichtbaar, zodat je zelf kunt nalezen waar een bewering vandaan komt."
+          ]
+        },
+        {
+          "heading": "Correcties",
+          "paragraphs": [
+            "Maken we een fout, dan passen we het stuk aan en zetten we de correctie met datum onder het artikel. Duiding en mening labelen we herkenbaar als zodanig."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nuchter Rechts op X",
+          "url": "https://x.com/nuchter_rechts"
+        }
+      ],
+      "corrections": []
+    }
+  ]
+}
